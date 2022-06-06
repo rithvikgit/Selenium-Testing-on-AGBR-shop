@@ -2,4 +2,6 @@
 Software Testing and Quality Assurance Mini Project <br />
 <br />
 Testing is done on this project : <br />
-https://github.com/rithvikgit/Grocery-Shopping-Website
+https://github.com/rithvikgit/Grocery-Shopping-Website <br/>
+<br/>
+Website: https://abgr-shop.000webhostapp.com/
